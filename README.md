@@ -8,7 +8,7 @@
 [Live Demo](colab.research.google.com/github/samadpls/CarLoanGenetrator/blob/main/Car%20Loan.ipynb)
 
 Tech Used:
-**Python**, **request**, **pandas** 
+**Python**, **request**, **pandas** **bs4** **matplotlib**
 
 _**`
 If anyone is interested in optimizing it, I highly appreciate it.
